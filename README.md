@@ -1,1 +1,3 @@
-# Repository for final project
+# Emotion Detector
+
+Emotion Detector project details.
